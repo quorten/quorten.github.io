@@ -2,4 +2,5 @@
 Landing page for Quorten GitHub Pages
 
 These are the available sites:
-[Quorten Blog 1](quorten-blog1/)
+
+* [Quorten Blog 1](quorten-blog1/)
