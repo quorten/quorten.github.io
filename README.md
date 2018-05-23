@@ -1,5 +1,5 @@
 # quorten.github.io
-Landing page for Quorten GitHub Pages
+Landing page for Quorten GitHub Pages.
 
 These are the available sites:
 
